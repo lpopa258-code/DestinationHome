@@ -1,6 +1,8 @@
 # DestinationHome
 Public repo for college project Unity top-down shooter "Destination: Home", name still work in progress.
 
+How to run: Clone the repo, open it in Unity and play; EXE and packaging coming in the future.
+
 Project description:
 Destionation: Home is a top down shooter that mixes CQC combat with sci-fi ship combat and adds the strategic element of managing your resources as you travel the galaxy on your way back home.
 The game starts with giving the player a very limited set of resources. Use the resources you have to travel to new levels, acquire new resources and ultimately stockpile and upgrade enough to face the longest path of them all: the path home.
