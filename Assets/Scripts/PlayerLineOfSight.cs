@@ -25,15 +25,17 @@ public class PlayerLineOfSight : MonoBehaviour
             if (!Physics.Raycast(transform.position, directionToTarget, distanceToTarget, obstacleMask))
             {
                 // Niciun obstacol -> linie de vedere libera
-                Debug.DrawRay(transform.position, directionToTarget * distanceToTarget, Color.green);
-                Debug.Log("Target in sight!");
+              //  Debug.DrawRay(transform.position, directionToTarget * distanceToTarget, Color.green);
+              //  Debug.Log("Target in sight!");
             }
             else
             {
                 // Obstacol detectat -> blocat
-                Debug.DrawRay(transform.position, directionToTarget * distanceToTarget, Color.red);
-                Debug.Log("Line of sight blocked!");
+              //  Debug.DrawRay(transform.position, directionToTarget * distanceToTarget, Color.red);
+              //  Debug.Log("Line of sight blocked!");
             }
         }
     }
 }
+
+// Am dat disable la debug logging pentru a testa AmmoPickups si MedkitPickups
