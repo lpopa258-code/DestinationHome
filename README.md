@@ -18,7 +18,8 @@ Popa Laura,  group 311 UniBuc FMI 2025-2026;
 
 
 Running instructions:
-(W.I.P.)
+Clone the repo locally and open using your unity editor, you can then load the different level using the names scenes from the Scenes folder.
 
 How to give feedback:
-You can offer your feedback on our project by sending us an e-mail with a structured critique or a file. (Feedback docx/pdf template W.I.P.)
+You can offer your feedback on our project by sending us an e-mail or by messaging us on Microsoft Teams with a structured critique or a file.
+For emails you can contact us at brisitvlad@gmail.com.
